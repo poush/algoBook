@@ -189,8 +189,7 @@ pre{
 	padding: 10px;
 	word-wrap: break-word;
 	border-radius:0;
-	margin-bottom: 0;
-	margin-right: -15px;
+	margin-bottom: 0; 
 }
 .userbox a {
 	color: #fff;
